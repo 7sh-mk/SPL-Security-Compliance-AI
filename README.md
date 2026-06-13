@@ -68,7 +68,31 @@ behavioral data to automatically classify configurations as
 
 ## System Architecture
 
-![System Architecture](system_architecture.png)
+![System Architecture](system_architecture.jpg)
+
+---
+
+## SPL Feature Model
+
+![Feature Model](feature_model.jpg)
+
+---
+
+## Verification Framework
+
+![Framework](framework.jpg)
+
+---
+
+## Dataset Sample
+
+![Dataset Sample](dataset_sample.jpg)
+
+---
+
+## Results — Confusion Matrix
+
+![Confusion Matrix](confusion_matrix.jpg)
 
 ---
 
